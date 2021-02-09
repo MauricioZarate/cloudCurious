@@ -1,2 +1,3 @@
 Attendance List
 ------------------
+Mauricio Zarate
